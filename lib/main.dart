@@ -63,11 +63,9 @@ class MyApp extends StatelessWidget {
                       color: Colors.teal.shade900,
                     ),
                     SizedBox(width: 20.0),
-                    Text(
-                      "luancmadev@gmail.com",
-                      style: TextStyle(
-                          color: Colors.teal.shade900, fontSize: 20.0),
-                    )
+                    Text("luancmadev@gmail.com",
+                        style: TextStyle(
+                            color: Colors.teal.shade900, fontSize: 20.0))
                   ],
                 ),
               )
